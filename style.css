@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap");
+body {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  color: aliceblue;
+  width: 100%;
+  height: 10%;
+  background-color: palevioletred;
+  display: flex;
+}
+
+header h1 {
+  margin-left: 5%;
+  margin-top: 2%;
+  font-family: "Lora", serif;
+}
+nav {
+  width: 100%;
+  height: 8%;
+  background-color: rgb(61, 2, 56);
+  font-size: 30px;
+  color: white;
+  display: flex;
+}
+#ser {
+  width: 15%;
+  margin-left: 40%;
+  margin-bottom: 20px;
+  margin-top: 13px;
+}
+.na {
+  display: flex;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+aside {
+  width: 15%;
+  height: 100%;
+  background-color: white;
+  float: left;
+}
+.aa {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+aside h1 {
+  background-color: rgb(227, 227, 238);
+  height: 10%;
+  margin-top: 0px;
+  color: rgb(24, 16, 16);
+}
+
+main {
+  height: auto;
+  width: 85%;
+  float: left;
+  background-color: white;
+}
+
+a {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.hero {
+  height: auto;
+  width: auto;
+}
+
+.contain {
+  width: auto;
+  height: auto;
+  margin-left: 5%;
+  float: left;
+  margin-top: 3%;
+}
+
+#mob {
+  height: 30%;
+  margin-left: 1%;
+}
+
+span {
+  color: red;
+}
+footer {
+  clear: both;
+  width: 100%;
+  height: 40%;
+  background-color: rgb(231, 152, 178);
+  display: flex;
+  font-size: 15px;
+}
+a:hover {
+  color: crimson;
+  background-color: rgb(194, 171, 176);
+}
+.list {
+  font-size: 25px;
+  text-decoration: none;
+}
+.payment {
+  margin-left: 5%;
+}
+.payment h1 {
+  margin-left: 7%;
+  font-size: 27px;
+}
