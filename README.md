@@ -1,3 +1,3 @@
 # online-shopping-store
 online mobile shopping store using html and css
-![screenshot](https://user-images.githubusercontent.com/87602895/158178344-9c395cc3-b134-4530-b5d9-174f71bc806c.png)![screenshot](https://user-images.githubusercontent.com/87602895/158178344-9c395cc3-b134-4530-b5d9-174f71bc806c.png)
+![screencapture-127-0-0-1-5504-index-html-2022-03-16-15_40_18](https://user-images.githubusercontent.com/87602895/158567961-9d078316-f746-4971-8280-ef264c821393.png)
